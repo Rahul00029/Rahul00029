@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul00029
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning web development.
 
 <!---
 Rahul00029/Rahul00029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
